@@ -1,1 +1,1 @@
-https://techecate.github.io/rsschool-cv/cv
+https://techecate.github.io/rsschool-cv/
