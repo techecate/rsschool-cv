@@ -1,1 +1,1 @@
-# rsschool-cv
+https://techecate.github.io/rsschool-cv/
